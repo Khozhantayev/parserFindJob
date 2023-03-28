@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-
 x = 0
 while True:
     if x == 0:
